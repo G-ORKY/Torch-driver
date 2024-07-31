@@ -1,4 +1,4 @@
-22459345810608722
+22464512514380768
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -91734,6 +91734,27 @@ NV4WB35AM
 0
 2
 2
+UserLyb
+SMD-0508
+
+
+0
+2
+2
+UserLyb
+drill-2.3
+
+
+0
+1
+1
+UserLyb
+drill-3.4
+
+
+0
+1
+1
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins
